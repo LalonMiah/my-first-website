@@ -7,5 +7,5 @@ function fibonacchi(num){
     return fibo;
 }
 
-var result = fibonacchi(12);
+var result = fibonacchi(10);
 console.log(result);
