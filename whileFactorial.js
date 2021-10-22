@@ -12,3 +12,4 @@ function factorialWhile(num){
 
  var result = factorialWhile(10);
 // console.log(result);
+
